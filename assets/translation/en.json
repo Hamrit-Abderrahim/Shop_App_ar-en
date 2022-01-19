@@ -1,0 +1,53 @@
+{
+"Screen2": "LogInScreen",
+  "welcome": "Welcome,",
+  "textContinue": "Sign in to Continue",
+  "email": "Email",
+  "password": "Password",
+  "forget": "Forget Password?",
+  "signIn": "Sign In",
+  "signOut": "Sign Out",
+
+"Screen3": "Register Screen",
+  "signUp": "Sign Up,",
+  "name": "Name",
+  "phone": "Phone Number",
+  "valEmail": "Please Enter Your Name",
+  "valName": "Please Enter Your Email",
+  "ValPhone": "Please Enter Your phone Number",
+  "valPassword": "Please Enter Your password",
+
+"Screen4": "LayoutsScreen",
+  "titleHome": "Shop",
+  "titleCat": "Category",
+  "titleFav": "Favourite",
+  "titleProfile": "Profile",
+  "homeText": "home",
+  "favoriteText": "favorite",
+  "profileText": "profile",
+
+"Screen5": "HomeScreen",
+  "categories": "Categories:",
+  "products": "Products:",
+  "discount": "DISCOUNT:",
+
+"titleScreen": "HomeScreen",
+  "details": "Details",
+  "description": "Description:",
+  "search": "Search....",
+
+"screen6": "SettingsScreen",
+  "EProfile": "Edit Profile",
+  "CHgLan": "Change Language",
+  "settings": "Settings",
+
+"onBoarding": "OnBoardingScreen",
+  "skip": "Skip",
+  "titleOne": "On Board 1 Title",
+  "titleTwo": "On Board 2 Title",
+  "titleThree": "On Board 3 Title",
+  "bodyOne": "On Board 1 Body",
+  "bodyTwo": "On Board 2 Body",
+  "bodyThree": "On Board 3 Body"
+
+}

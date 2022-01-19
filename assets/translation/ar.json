@@ -1,0 +1,53 @@
+
+{
+"Screen2": "تسجيل الدخول",
+  "welcome": "مرحبا,",
+  "textContinue": "تسجيل الدخول للمتابعة",
+  "email": "البريد الالكتروني",
+  "password": "الرقم السري",
+  "forget": "نسيت كلمة السر؟",
+  "signIn": "تسجيل الدخول",
+  "signOut":"تسجيل الخروج",
+
+  "Screen3": "Register Screen",
+  "signUp":"إنشاء حساب ",
+  "name": "الاسم",
+  "phone": "رقم الهاتف",
+  "valEmail": "الرجاء ادخال الإسم",
+  "valName": "الرجال ادخال الحساب البريدي",
+  "ValPhone": "الرجاء إدخال رقم الهاتف",
+  "valPassword": "الرجاء إدخال الرقم السري",
+
+  "Screen4": "LayoutsScreen",
+  "titleHome": "Shop",
+  "titleCat": "الفئات",
+  "titleFav": "المفضلة",
+  "titleProfile": "ملفي الشخصي",
+  "homeText": "الرئيسية",
+  "favoriteText": "المفضلة",
+  "profileText": "ملفي",
+
+  "Screen5": "HomeScreen",
+  "categories:": "الفئات:",
+  "products:": "المنتجات:",
+  "discount:": "تخفيض",
+
+  "titleScreen": "HomeScreen",
+  "details": "التفاصيل",
+  "description": "الوصف:",
+  "search": "بحث....",
+
+  "screen6": "SettingsScreen",
+  "EProfile": "تعديل ملفي الشخصي",
+  "CHgLan": "تغيير اللغة",
+  "settings": "الإعدادات",
+
+"onBoarding": "OnBoardingScreen",
+  "skip": "تخطي",
+  "titleOne": "العنوان الأول",
+  "titleTwo": "العنوان الثاني",
+  "titleThree": "العنوان الثالث",
+  "bodyOne": "المحتوى الأول",
+  "bodyTwo": "المحتوى الثاني",
+  "bodyThree": "المحتوى الثالث"
+}
